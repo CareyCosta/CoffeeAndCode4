@@ -16,16 +16,16 @@ p times_twelve(8)
 #walk-through
 # ** is exponential operator
 
-RANGE = 8
-EXP = 12
+#RANGE = 8
+#EXP = 12
 #start = 1
 #capital letters = constants, which are variables
 #that don't change
 
 
-a = []
+#a = []
 
-range.times { |i| a << EXP**i}
+#range.times { |i| a << EXP**i}
 # i is iteration number, 8
 
-end
+#
